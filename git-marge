@@ -1,0 +1,41 @@
+#!/bin/bash
+#
+# git-marge: marge thinks its neat
+# Art by Matthew Kurth
+# from https://www.asciiart.eu/cartoons/simpsons
+
+set -e
+
+git merge "$@"
+if [ $# != 0 ] 
+then
+
+echo ''
+echo '   OOOO'
+echo ' OOOOOOOOO'
+echo 'OOOOOOOOOOOO'
+echo 'OOOOOOOOOOOOO'
+echo 'OOOOOOOOOOOOOO'
+echo 'OOOOOOOOOOOOOO'
+echo ' OOOOOOOOOOOOOO'
+echo ' OOOOOOOOOOOOOO'
+echo ' OOOOOOOOOOOOOO'
+echo '  OOOOOOOOOOOOOO'
+echo '  OOOOOOOOOOOOOO'
+echo '  OOOOOOOOOOOOOO'
+echo '  OOOOOOOOOOOOOO'
+echo '   OOOOOOOOOOOOOO'
+echo '   OOOOOOOOOOOOOO'
+echo '   OOOOO \_| \_|O'
+echo '   OOOO \/  \/  \'
+echo '   OOOO (o   )o  )'
+echo '   O/c   \__/ --.'
+echo '   O\_   ,     -o'
+echo '    O|  `\_______)  I just think theyre neat'
+echo '     |       _)'
+echo '     |      |'
+echo '     oooooooo'
+echo '    /        \'
+echo
+
+fi
