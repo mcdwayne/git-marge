@@ -22,31 +22,56 @@ This is a joke based entirely off git-dad by ethomson
 https://github.com/ethomson/git-dad
 
 
-   OOOO \n 
- OOOOOOOOO \n
-OOOOOOOOOOOO \n
-OOOOOOOOOOOOO \n
-OOOOOOOOOOOOOO \n
-OOOOOOOOOOOOOO \n
- OOOOOOOOOOOOOO \n
- OOOOOOOOOOOOOO \n
- OOOOOOOOOOOOOO \n
-  OOOOOOOOOOOOOO \n
-  OOOOOOOOOOOOOO \n
-  OOOOOOOOOOOOOO \n
-  OOOOOOOOOOOOOO \n
-   OOOOOOOOOOOOOO \n
-   OOOOOOOOOOOOOO \n
-   OOOOO \_| \_|O \n
-   OOOO \/  \/  \ \n
-   OOOO (o   )o  ) \n
-   O/c   \__/ --. \n
-   O\_   ,     -' \n
-    O|  '\_______)  I just think theyre neat \n
-     |       _) \n
-     |      | \n
-     oooooooo \n
-    /        \ \n
+
+   OOOO \
+
+ OOOOOOOOO 
+
+OOOOOOOOOOOO 
+
+OOOOOOOOOOOOO 
+
+OOOOOOOOOOOOOO 
+
+OOOOOOOOOOOOOO 
+
+ OOOOOOOOOOOOOO 
+
+ OOOOOOOOOOOOOO 
+
+ OOOOOOOOOOOOOO 
+
+  OOOOOOOOOOOOOO 
+
+  OOOOOOOOOOOOOO 
+
+  OOOOOOOOOOOOOO 
+
+  OOOOOOOOOOOOOO 
+
+   OOOOOOOOOOOOOO 
+
+   OOOOOOOOOOOOOO 
+
+   OOOOO \_| \_|O 
+
+   OOOO \/  \/  \ 
+
+   OOOO (o   )o  ) 
+
+   O/c   \__/ --. 
+
+   O\_   ,     -' 
+
+    O|  '\_______)  I just think theyre neat 
+
+     |       _) 
+
+     |      | 
+
+     oooooooo 
+
+    /        \ 
 
 BAsed on art by Matthew Kurth
 from https://www.asciiart.eu/cartoons/simpsons
