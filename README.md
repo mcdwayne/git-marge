@@ -21,57 +21,5 @@ Clone locally and then simply mv or cp git-marge into your .local/bin folder (or
 This is a joke based entirely off git-dad by ethomson
 https://github.com/ethomson/git-dad
 
-
-
-   OOOO \
-
- OOOOOOOOO 
-
-OOOOOOOOOOOO 
-
-OOOOOOOOOOOOO 
-
-OOOOOOOOOOOOOO 
-
-OOOOOOOOOOOOOO 
-
- OOOOOOOOOOOOOO 
-
- OOOOOOOOOOOOOO 
-
- OOOOOOOOOOOOOO 
-
-  OOOOOOOOOOOOOO 
-
-  OOOOOOOOOOOOOO 
-
-  OOOOOOOOOOOOOO 
-
-  OOOOOOOOOOOOOO 
-
-   OOOOOOOOOOOOOO 
-
-   OOOOOOOOOOOOOO 
-
-   OOOOO \_| \_|O 
-
-   OOOO \/  \/  \ 
-
-   OOOO (o   )o  ) 
-
-   O/c   \__/ --. 
-
-   O\_   ,     -' 
-
-    O|  '\_______)  I just think theyre neat 
-
-     |       _) 
-
-     |      | 
-
-     oooooooo 
-
-    /        \ 
-
-BAsed on art by Matthew Kurth
+Based on art by Matthew Kurth
 from https://www.asciiart.eu/cartoons/simpsons
