@@ -10,7 +10,7 @@ a mistake:
 git: 'marge' is not a git command. See 'git --help'.
 ```
 
-But with `git-marge`, your file will still be added to the index, but also Marge Simpson will appear in your terminal to tell you what she thinks of merges:
+But with `git-marge`, your merge will still be attempted, but also Marge Simpson will appear in your terminal to tell you what she thinks of merges.
 
 
 ### Install
