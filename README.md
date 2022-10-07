@@ -1,4 +1,4 @@
-git-marge: Marge just thinks marges are neat
+git-marge: Marge just thinks merges are neat
 =======
 
 `git-marge` allows you to recover when you've accidentally mistyped `git merge`,
